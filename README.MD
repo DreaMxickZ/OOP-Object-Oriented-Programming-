@@ -10,6 +10,11 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 pip install foobar
 ```
 
+```bash
+For Mac
+pip3 install foobar
+```
+
 ## Usage
 
 ```python
